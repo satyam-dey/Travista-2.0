@@ -76,12 +76,10 @@ export default function WelcomePage({ onComplete }) {
         <div className="welcome-text-content">
           <h1 className="welcome-main-text">
             {mainText}
-            <span className="typing-cursor">|</span>
           </h1>
           {showSubText && (
             <p className="welcome-sub-text">
               {subText}
-              <span className="typing-cursor-sub">|</span>
             </p>
           )}
         </div>
