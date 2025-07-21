@@ -1,0 +1,651 @@
+[
+  {
+    "destination": "ALIPURDUAR",
+    "spots": [
+      {
+        "name": "JALDAPARA NATIONAL PARK",
+        "image": "../assests/Elephant_safari.webp",
+        "category": "Forest Reserve"
+      },
+      {
+        "name": "BUXA TIGER RESERVE",
+        "image": "../assests/Buxa_Tiger_Reserve.webp",
+        "category": "Tiger Reserve"
+      },
+      {
+        "name": "COOCH BEHAR PALACE",
+        "image": "../assests/The_Cooch_Behar_Rajbari.webp",
+        "category": "Heritage"
+      },
+      {
+        "name": "GORUMARA NATIONAL PARK",
+        "image": "../assests/Gorumara.webp",
+        "category": "Forest Reserve"
+      }
+    ]
+  },
+  {
+    "destination": "ASANSOL",
+    "spots": [
+      {
+        "name": "MAITHON DAM",
+        "image": "../assests/MAITHON.webp",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "KALYANESWARI TEMPLE",
+        "image": "../assests/KALYANESWARI.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "GHAGAR BURI CHANDI TEMPLE",
+        "image": "../assests/Ghagar_Buri_Temple.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "DURGAPUR BARRAGE",
+        "image": "../assests/Durgapur_barrage.webp",
+        "category": "Water Reserve"
+      }
+    ]
+  },
+  {
+    "destination": "BANKURA",
+    "spots": [
+      {
+        "name": "SUSUNIA HILL",
+        "image": "../assests/Susunia_Hill.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "BIHARINATH HILL",
+        "image": "../assests/BIHARINATH.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "GANGDUA DAM",
+        "image": "../assests/GANGDUA.webp",
+        "category": "Water Reserve"
+      }
+    ]
+  },
+  {
+    "destination": "BARDHAMAN",
+    "spots": [
+      {
+        "name": "SARBAMANGLA TEMPLE",
+        "image": "../assests/SarbamanglaDeviTemple.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "CURZON GATE",
+        "image": "../assests/Curzon_Gate.webp",
+        "category": "Historical Spot"
+      },
+      {
+        "name": "108 SHIV TEMPLES",
+        "image": "../assests/108 _SHIV.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SCIENCE CENTRE & PLANETARIUM",
+        "image": "../assests/BARDHAMANSCIENCE.webp",
+        "category": "Knowledge Spot"
+      },
+      {
+        "name": "GOLAPBAG",
+        "image": "../assests/Golapbag.webp",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "BISHNUPUR",
+    "spots": [
+      {
+        "name": "RASMANCHA",
+        "image": "../assests/Rasmancha.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "MADAN MOHAN TEMPLE",
+        "image": "../assests/Madan_Mohan_Temple.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "JORE BANGLA TEMPLE",
+        "image": "../assests/jorbangla.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "SHYAM RAI TEMPLE",
+        "image": "../assests/ShyamraiTemple.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "JOYPUR FOREST",
+        "image": "../assests/Joypur_forest.webp",
+        "category": "Forest Reserve"
+      },
+      {
+        "name": "JOYRAMBATI AND KAMARPUKUR",
+        "image": "../assests/jayrambati.webp",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "BOLPUR(SHANTINIKETAN)",
+    "spots": [
+      {
+        "name": "VISWA BHARATI UNIVERSITY",
+        "image": "../assests/santiniketan.webp",
+        "category": "Knowledge Spot/Heritage"
+      },
+      {
+        "name": "SONAJHURI HAAT",
+        "image": "../assests/sonajhuri.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "KOPAI RIVER",
+        "image": "../assests/kopai_river.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "BALLAVPUR WILDLIFE SANCTUARY",
+        "image": "../assests/ballavpur.webp",
+        "category": "Wildlife Reserve"
+      }
+    ]
+  },
+  {
+    "destination": "CENTRAL KOLKATA",
+    "spots": [
+      {
+        "name": "HOWRAH BRIDGE",
+        "image": "../assests/Howrah_bridge.webp",
+        "category": "Heritage"
+      },
+      {
+        "name": "VICTORIA MEMORIAL",
+        "image": "../assests/Victoria_Memorial.webp",
+        "category": "Heritage"
+      },
+      {
+        "name": "INDIAN MUSUEM",
+        "image": "../assests/indian_museum.webp",
+        "category": "Knowledge Spot/Heritage"
+      },
+      {
+        "name": "BIRLA PLANETARIUM",
+        "image": "../assests/birla.webp",
+        "category": "Knowledge Spot"
+      },
+      {
+        "name": "PRINSEP GHAT",
+        "image": "../assests/princep.webp",
+        "category": "Nature/Heritage"
+      },
+      {
+        "name": "ST.PAUL'S CATHEDRAL",
+        "image": "../assests/cathedral.webp",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "DARJEELING",
+    "spots": [
+      {
+        "name": "TIGER HILL",
+        "image": "../assests/tiger_hill.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "BATASIA LOOP",
+        "image": "../assests/batasia_loop.webp",
+        "category": "Nature/Heritage"
+      },
+      {
+        "name": "ROCK GARDENS",
+        "image": "../assests/rock_garden.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "DARJEELING TEA GARDENS",
+        "image": "../assests/tea_garden.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "PADMAJA NAIDU  ZOOLOGICAL PARK",
+        "image": "../assests/darjeeling_zoo.webp",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "MAHAKAL MANDIR",
+        "image": "../assests/mahakal.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "GHOOM MONASTERY",
+        "image": "../assests/ghoom_mona.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "GHOOM STATION",
+        "image": "../assests/Ghum_Railway_station.webp",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "DIGHA",
+    "spots": [
+      {
+        "name": "DIGHA SEA BEACH",
+        "image": "../assests/digha_beach.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "MARINE AQUARIUM &RESEARCH CENTRE",
+        "image": "../assests/digha_aqua.webp",
+        "category": "Knowledge Spot"
+      },
+      {
+        "name": "UDAIPUR BEACH",
+        "image": "../assests/udaipur.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "TALSARI BEACH",
+        "image": "../assests/talsari.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "SHANKARPUR BEACH",
+        "image": "../assests/sankarpur.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "DIGHA MOHONA",
+        "image": "../assests/mohona.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "MANDARMANI SEA BEACH",
+        "image": "../assests/Mandarmani_Sea_Beach.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "TAJPUR SEA BEACH",
+        "image": "../assests/Tajpur_Beach.webp",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "HOOGHLY",
+    "spots": [
+      {
+        "name": "BANDEL CHURCH",
+        "image": "../assests/bandel_church.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "HOOGHLY IMAMBARA",
+        "image": "../assests/imambara.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "HANGSESWARI TEMPLE",
+        "image": "../assests/hansweswari.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "CHANDANNAGAR STRAND GHAT",
+        "image": "../assests/strand.webp",
+        "category": "Nature/Heritage"
+      },
+      {
+        "name": "ITACHUNA RAJBARI",
+        "image": "../assests/itachuna.webp",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "JHARGRAM",
+    "spots": [
+      {
+        "name": "JHARGRAM RAJ PALACE",
+        "image": "../assests/jhargram_rajbari.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "CHILKIGARH  PALACE",
+        "image": "../assests/chilkigarh.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "JUNGLEMAHAL ZOOLOGICAL PARK",
+        "image": "../assests/jangalmahal.webp",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "GHAGRA WATERFALLS",
+        "image": "../assests/ghagra_falls.webp",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "KALIMPONG",
+    "spots": [
+      {
+        "name": "DEOLO HILL PARK",
+        "image": "../assests/Deolo.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "DURPIN DARA ",
+        "image": "../assests/Durpindara.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "DURPIN MONASTERY",
+        "image": "../assests/durpin_monastery.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "MORGAN HOUSE",
+        "image": "../assests/Morgan_House.webp",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "KRISHNANAGAR",
+    "spots": [
+      {
+        "name": "KRISHNANAGAR RAJBARI",
+        "image": "../assests/krishnanagar.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "JALANGI RIVER",
+        "image": "../assests/jalangi.webp",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "KURSEONG",
+    "spots": [
+      {
+        "name": "EAGLE'S CRAG VIEWPOINT",
+        "image": "../assests/ec.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "MAKAIBARI TEA ESTATE",
+        "image": "../assests/makaibari.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "DOWHILL",
+        "image": "../assests/dowhill.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "AMBOTIA SHIVA TEMPLE",
+        "image": "../assests/ambotiashivtemple.webp",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "MALDA ",
+    "spots": [
+      {
+        "name": "ADINA MOSQUE ",
+        "image": "../assests/adina.webp",
+        "category": "Religious Spot/Heritage"
+      },
+      {
+        "name": "MALDA MUSEUM",
+        "image": "../assests/maldamuseum.webp",
+        "category": "Knowledge Spot"
+      },
+      {
+        "name": "FARAKKA BARRAGE",
+        "image": "../assests/farakka.webp",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "MAYAPUR/ NABADWIP",
+    "spots": [
+      {
+        "name": "ISKCON CHANDRODAYA TEMPLE",
+        "image": "../assests/isckon.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SRI PRABHUPADA'S PUSHPA SAMADHI ",
+        "image": "../assests/prabbupada.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SRI CHAITANYA MATH",
+        "image": "../assests/chaitanyamath.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SONAR GOURANGA TEMPLE",
+        "image": "../assests/sonargourango.webp",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "MEDINIPUR",
+    "spots": [
+      {
+        "name": "MUKUTMANIPUR DAM",
+        "image": "../assests/mukutmanipur.webp"
+      },
+      {
+        "name": "GANGANI  (BENGAL'S GRAND CANYON)",
+        "image": "../assests/gangani.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "JHILIMILI",
+        "image": "../assests/jhilimili.webp",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "MURSHIDABAD",
+    "spots": [
+      {
+        "name": "HAZARDUARI  PALACE",
+        "image": "../assests/hazarduari.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "KATRA MOSQUE",
+        "image": "../assests/katra.webp",
+        "category": "Religious Spot/Heritage"
+      },
+      {
+        "name": "KATHGOLA PALACE",
+        "image": "../assests/kathgola.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "NASHIPUR PALACE",
+        "image": "../assests/nashipur.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "BEGUM AZIMUNISSA'S TOMB",
+        "image": "../assests/Tomb_of_Azimunnisha_Begum.webp",
+        "category": "History/Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "NORTH  KOLKATA",
+    "spots": [
+      {
+        "name": "MARBLE PALACE",
+        "image": "../assests/marbleppalace.webp",
+        "category": "Heritage"
+      },
+      {
+        "name": "JORASANKO THAKUR BARI",
+        "image": "../assests/jorasanko.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "SHOVABAJAR RAJBARI",
+        "image": "../assests/shovabajar.webp",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "DAKSHINESWAR TEMPLE",
+        "image": "../assests/dakhineswar.webp",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "PURULIA",
+    "spots": [
+      {
+        "name": "AYODHHA HILL",
+        "image": "../assests/ajodhha.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "BAMNI FALLS",
+        "image": "../assests/bamni.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "UPPER DAM",
+        "image": "../assests/upperdam.webp",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "LOWER DAM",
+        "image": "../assests/lowerdam.webp",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "MARBLE LAKE",
+        "image": "../assests/marblelake.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "MURUGUMA DAM",
+        "image": "../assests/murguma.webp",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "KHAIRABERA DAM",
+        "image": "../assests/khairbera.webp",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "CHARIDA ( MASK VILLAGE)",
+        "image": "../assests/charida.webp",
+        "category": "Rural/Nature"
+      },
+      {
+        "name": "GARH PANCHKOT ",
+        "image": "../assests/garpanchakot.webp",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "PANCHET DAM",
+        "image": "../assests/panchet.webp",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "BARANTI DAM",
+        "image": "../assests/baranti.webp",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "JOYCHANDI HILLS",
+        "image": "../assests/joychandi.webp",
+        "category": "Hilly Area/Nature"
+      }
+    ]
+  },
+  {
+    "destination": "SOUTH KOLKATA",
+    "spots": [
+      {
+        "name": "KALIGHAT TEMPLE",
+        "image": "../assests/kalighat.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "INDIAN BOTANICAL GARDEN",
+        "image": "../assests/botanical.webp",
+        "category": "Nature"
+      },
+      {
+        "name": "ALIPORE ZOO",
+        "image": "../assests/aliporezoo.webp",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "BIRLA MANDIR",
+        "image": "../assests/birlamandir.webp",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SCIENCE CITY",
+        "image": "../assests/sciencecity.webp",
+        "category": "Knowledge Spot"
+      }
+    ]
+  },
+  {
+    "destination": "SUNDARBANS",
+    "spots": [
+      {
+        "name": "SUNDARBANS NATIONAL PARK",
+        "image": "../assests/sundarban.webp",
+        "category": "Forest/Wildlife Reserve"
+      },
+      {
+        "name": "SAJNEKHALI WILDLIFE SANCTUARY",
+        "image": "../assests/sajnekhali.webp",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "SUNDARBAN TIGER RESERVE",
+        "image": "../assests/sundarbantiger.webp",
+        "category": "Tiger Reserve"
+      },
+      {
+        "name": "CROCODILE BREEDING CENTRE",
+        "image": "../assests/crocodile.webp",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "HENRY ISLAND",
+        "image": "../assests/henry.webp",
+        "category": "Nature"
+      }
+    ]
+  }
+]
