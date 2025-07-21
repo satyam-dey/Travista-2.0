@@ -2138,7 +2138,6 @@ p {
   background-color: white;
   margin-left: 2px;
   width: 3px;
-  animation: typingCursorBlink 1s step-end;
 }
 
 .typing-cursor-sub {
