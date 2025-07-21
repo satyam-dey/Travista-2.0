@@ -85,9 +85,6 @@ export default function WelcomePage({ onComplete }) {
             </p>
           )}
         </div>
-        <div className="welcome-logo-container">
-          <img src="/assests/bg.webp" alt="Travista" className="welcome-page-logo" />
-        </div>
       </div>
     </div>
   )
