@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import WelcomeModal from "../components/WelcomeModal";
+// import WelcomeModal from "../components/WelcomeModal";
 import WelcomePage from "../components/WelcomePage";
 
 export default function Home() {
@@ -90,7 +90,7 @@ export default function Home() {
 
       {showWelcomePage && <WelcomePage onComplete={handleWelcomeComplete} />}
 
-      {showWelcome && <WelcomeModal onClose={() => setShowWelcome(false)} />}
+      {/* {showWelcome && <WelcomeModal onClose={() => setShowWelcome(false)} />} */}
       {!showLoading && !showWelcomePage && (
         <>
           <Header />
