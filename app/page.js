@@ -5,7 +5,6 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import WelcomePage from "../components/WelcomePage";
 
-
 export default function Home() {
   const [destinations, setDestinations] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -190,6 +189,14 @@ export default function Home() {
                                       More Info
                                     </a>
                                     <a
+                                      href={"/booking"}
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      className="spot-action-button primary"
+                                    >
+                                      Booking
+                                    </a>
+                                    <a
                                       href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
                                         mapQuery
                                       )}`}
@@ -212,9 +219,7 @@ export default function Home() {
                         </div>
                       )}
                     </div>
-                    
                   ))}
-                  
                 </div>
               </div>
             </section>
