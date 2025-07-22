@@ -3,8 +3,8 @@
 import { useEffect, useState } from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-// import WelcomeModal from "../components/WelcomeModal";
 import WelcomePage from "../components/WelcomePage";
+
 
 export default function Home() {
   const [destinations, setDestinations] = useState([]);
@@ -212,7 +212,9 @@ export default function Home() {
                         </div>
                       )}
                     </div>
+                    
                   ))}
+                  
                 </div>
               </div>
             </section>

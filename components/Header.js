@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react"
 import Link from "next/link"
-import Image from "next/image"
 
 export default function Header() {
   const [theme, setTheme] = useState("light")
@@ -51,6 +50,9 @@ export default function Header() {
           <nav className={`nav ${menuOpen ? "nav-open" : ""}`}>
             <Link href="/" onClick={closeMenu}>
               Home
+            </Link>
+            <Link href="/booking" onClick={closeMenu}>
+              Booking
             </Link>
             <Link href="/about" onClick={closeMenu}>
               About
